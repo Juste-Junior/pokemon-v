@@ -1,12 +1,12 @@
 
 import './App.css'
-import PokemondCard from "./compement/PokemondCard"
+import PokemonCard from './components/PokemonCard';
 
 function App() {
 
     return (
       <div >
-              <PokemondCard />
+              <PokemonCard />
       </div>
         
     );
